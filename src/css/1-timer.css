@@ -1,0 +1,28 @@
+.timer-container {
+  margin-top: 36px;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 48px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+}
+
+.value {
+  font-size: 500%;
+}
+
+.label {
+  font-size: 120%;
+}
